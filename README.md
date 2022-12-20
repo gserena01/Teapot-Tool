@@ -1,4 +1,4 @@
-## Teapot Texturing Tool Using Reaction-Diffusion and Noise Algorithms
+# Teapot Texturing Tool Using Reaction-Diffusion and Noise Algorithms
 
 
 ![reaction5](https://user-images.githubusercontent.com/60444726/208584356-af48c356-3e29-403f-b5d4-f42c34ea0f8c.png)
